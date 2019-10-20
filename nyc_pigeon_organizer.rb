@@ -20,3 +20,5 @@ def nyc_pigeon_organizer(pigeon_data)
   }
   x
 end
+
+#TODO: ask for further explaination in school
